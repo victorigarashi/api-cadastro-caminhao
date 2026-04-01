@@ -1,0 +1,1 @@
+from app.models.caminhao_model import CaminhaoModel
